@@ -1,8 +1,8 @@
 /*
  *  sample_extract.c
  *
- *  Code snippet to extract digital samples from radio signal data obtained
- *  from Airspy R2 SDR stored in a binary file.
+ *  Code snippet showing how extract digital samples from radio signal data
+ *  obtained from Airspy R2 SDR stored in a binary file.
  *
  *  Copyright (C) 2018 Nitish Ragoomundun, Mauritius
  *
