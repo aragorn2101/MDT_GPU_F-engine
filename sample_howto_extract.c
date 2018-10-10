@@ -1,7 +1,7 @@
 /*
  *  sample_extract.c
  *
- *  Code snippet showing how extract digital samples from radio signal data
+ *  Code snippet showing how to extract digital samples from radio signal data
  *  obtained from Airspy R2 SDR stored in a binary file.
  *
  *  Copyright (C) 2018 Nitish Ragoomundun, Mauritius
@@ -34,7 +34,7 @@
    *
    *  f1 : file pointer,
    *  FILENAME : name of file with data,
-   *  RawIQ : array to hold raw samples,
+   *  RawIQ : array holding raw samples,
    *  Nchannels : number of channels in spectra,
    *  Ntaps : number of taps implemented in PPF,
    *  retval : integer return value.
